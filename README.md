@@ -2,7 +2,7 @@
 # Overview and Origin
 ### Name of company: Databricks, Inc.
 ### Incorporated: 2013
-### Founders: Ali Ghodsi, Matei Zaharia, Reynold Xin, Ion Stoica, Patrick Wendell, Andy Konwinski, Arsalan Tavakoli
+### Founders: ![Ali Ghodsi- CEO](16414.jpg), ![Matei Zaharia- CTO](12118.jpg), ![Reynold Xin- Chief Architect](12120.jpg), ![Ion Stoica- Executive Chair](12116.jpg), ![Patrick Wendell - VP of Engineering](12127.png), ![Andy Konwinski - VP of Product Management](12108.jpg), ![Arsalan Tavakoli - SVP of Field Engineerings](12109.jpg)
 ### Idea: Founded by the creators of Apache Spark, Databricks aimed to provide a cloud-based platform leveraging Spark for data analytics and AI.
 ### Funding: Private company. Revenue estimated at $1.6 billion (2023).
 
