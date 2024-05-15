@@ -24,7 +24,7 @@
 # Landscape
 ### Field: Data and AI (specifically, data lakehouses)
 ### Trends: Increased adoption of cloud-based data platforms, growth in big data and machine learning, focus on data governance and security.
-### Major Companies: Microsoft Azure Databricks, Amazon Redshift, Snowflake, Tableau, Informatica, Capgemini and Booz Allen Hamilton, Walgreens, Adobe, Toyota, AT&T
+### Major Companies: Microsoft Azure Databricks, Amazon Redshift, Snowflake, Tableau, Informatica, Capgemini and Booz Allen Hamilton
 
 # Results
 ### Business Impact: Databricks is a leading player in the data lakehouse market with a large and growing customer base.
