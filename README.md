@@ -38,7 +38,7 @@
 ### Technologies: This product could leverage existing technologies like Spark and MLflow, along with natural language processing (NLP) libraries and frameworks.
 ### Appropriateness: These technologies align with Databricks' expertise in data processing and machine learning, enabling a natural extension of their platform.
 
-# Sources
+# Addendum
 ### https://www.databricks.com/company/about-us
 ### https://6sense.com
 ### https://techcrunch.com/2024/03/07/databricks-revenue-numbers-ipo
