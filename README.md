@@ -12,8 +12,9 @@
 ### <img src="https://www.databricks.com/en-website-assets/static/c78aadc4e86b4ebb5a50ad4e82733056/12108.jpg" width="100" height="100">```Andy Konwinski - VP of Product Management```
 ### <img src="https://www.databricks.com/en-website-assets/static/11e63635ac8e5351052be26781c6552f/12109.jpg" width="100" height="100">```Arsalan Tavakoli - SVP of Field Engineering```
 
-## Idea: _Founded by the creators of Apache Spark, Databricks aimed to provide a cloud-based platform leveraging Spark for data analytics and AI._
-## Funding: ***Private company. Revenue estimated at $1.6 billion (2023).***
+## Idea: _Founded by the creators of Apache Spark, Databricks aimed to provide a cloud-based platform leveraging Spark for data analytics and AI._*
+## Funding:
+>***Private company. Revenue estimated at $1.6 billion (2023).***
 
 # Business Activities
 ### Problem: Databricks addresses the challenge of siloed data, making it difficult for organizations to unify data for analytics and AI workloads, including both structured and unstructured data.
@@ -29,7 +30,7 @@
 # Results
 ### Business Impact: Databricks is a leading player in the data lakehouse market with a large and growing customer base.
 ### Core Metrics: Customer growth, revenue, data volume processed, user adoption of platform features.
-### Performance: Databricks has market share of 15.59% in big-data-analytics market. Databricks competes with 42 competitor tools in big-data-analytics category. The top alternatives for Databricks big-data-analytics tool are Azure Databricks with 14.71%, Apache Hadoop with 14.65%, Microsoft Azure Synapse with 11.24% market share. The company disclosed in August 2022 that it had reached a $1 billion annualized run rate, and $800 million worth of annual recurring revenue at the end of 202
+### Performance: Databricks has market share of 15.59% in big-data-analytics market. Databricks competes with 42 competitor tools in big-data-analytics category. The top alternatives for Databricks big-data-analytics tool are Azure Databricks with 14.71%, Apache Hadoop with 14.65%, Microsoft Azure Synapse with 11.24% market share. The company disclosed in August 2022 that it had reached a $1 billion annualized run rate, and $800 million worth of annual recurring revenue at the end of 2024
 
 # Recommendations
 ### New Product/Service: Databricks could offer a developer-friendly platform for building and deploying generative AI models on their data lakehouse, enabling secure and privacy-focused development of AI applications.
